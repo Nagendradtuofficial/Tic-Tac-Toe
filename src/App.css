@@ -1,0 +1,13 @@
+*{
+  size: 25px;
+  color: rgb(216, 78, 9);
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.App{
+  /* border: 2px solid red; */
+  text-align: center;
+  align-items: center;
+  margin-top: 200px;
+}

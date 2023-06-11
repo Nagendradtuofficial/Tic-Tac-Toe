@@ -1,0 +1,14 @@
+.reset{
+    text-align: center;
+    box-shadow : 0 0 8px  rgb(5, 210, 242);
+    width: 8rem;
+    align-items: center;
+    text-align: center;
+    padding: 0.5rem;
+    font-size: large;
+    color: rgb(255, 255, 255);
+    border-color: rgb(5, 210, 242);
+    background-color: rgb(15, 59, 216);
+    margin: 2rem auto;
+    display: block;
+}
